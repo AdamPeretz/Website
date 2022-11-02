@@ -1,9 +1,20 @@
 @font-face {
     font-family: myFirstFont;
     src: url(Namskowgreen-BWLRB.ttf);
+	: 100px;
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url(Colorblind.otf);
+	: 100px;
 }
   
 p {
     font-family: myFirstFont;
-    color: darkgreen;
+    
+}
+
+i {
+    font-family: mySecondFont;
+    
 }

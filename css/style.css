@@ -1,9 +1,0 @@
-@font-face {
-    font-family: myFirstFont;
-    src: url(Namskowgreen-BWLRB.ttf);
-}
-  
-p {
-    font-family: myFirstFont;
-    color: darkgreen;
-}
