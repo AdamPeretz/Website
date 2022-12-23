@@ -1,7 +1,7 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(Namskowgreen-BWLRB.ttf);
-	: 100px;
+    src: url("TRY-SVG.otf");
+	: 1000px;
 }
 @font-face {
     font-family: mySecondFont;
