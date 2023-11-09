@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url("Unnamed1-Regular-SVG.ttf");
+    src: url("Unnamed1-Regular-SVG.otf");
 	: 1000px;
 }
 @font-face {
@@ -11,7 +11,13 @@
   
 p {
     font-family: myFirstFont;
-    
+}
+
+body {
+  background-image: url('vecteezy_abstract-blue-fluid-wave-background_17798503.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 i {
