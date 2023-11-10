@@ -1,12 +1,12 @@
 @font-face {
     font-family: myFirstFont;
     src: url("NewFont-Regular.otf");
-	: 1000px;
+	: 22px;
 }
 @font-face {
     font-family: mySecondFont;
     src: url(Colorblind.otf);
-	: 100px;
+	: 22px;
 }
   
 p {
