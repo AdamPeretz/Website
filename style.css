@@ -1,0 +1,25 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url("NewFont-Regular.otf");
+}
+@font-face {
+    font-family: mySecondFont;
+    src: url(Colorblind.otf);
+}
+  
+p {
+    font-family: myFirstFont;
+    font-size: 22px;
+}
+
+body {
+  background-image: url('vecteezy_abstract-blue-fluid-wave-background_17798503.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+i {
+    font-family: mySecondFont;
+    
+}
