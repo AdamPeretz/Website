@@ -1,0 +1,69 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+DisplayStrings = (
+a
+);
+date = "2023-11-09 17:29:18 +0000";
+familyName = "New Font";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Regular;
+}
+);
+glyphs = (
+{
+glyphname = a;
+lastChange = "2023-11-09 17:31:21 +0000";
+layers = (
+{
+backgroundImage = {
+imagePath = "font 2/א.png";
+scale = (5.1034,5.5944);
+};
+layerId = m01;
+width = 600;
+}
+);
+unicode = 97;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 200;
+}
+);
+unicode = 32;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
